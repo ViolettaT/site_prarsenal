@@ -1,0 +1,28 @@
+.div1{
+		width: 68%;
+		height: 600px;
+		position: absolute;
+		margion: 0 auto;
+		left: 17%;		
+	}
+
+.p {
+	color: #FF7F50;
+	font-style: italic;
+	}
+
+
+.wrapper{
+	displày:flex;
+	display: inline-flex; 
+	flex-direction:row-reverse; 
+				
+	}
+.inner{
+	width: 295px;
+	height: 200px;
+	background-color: wheat;
+	border: solid 2px #996633;		
+	marign-left: 15 px;
+	margin-right: 15px;
+	}

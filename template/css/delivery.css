@@ -1,0 +1,6 @@
+.delivery {
+	border: 2px dotted #452A02; /* Параметры границы */
+    	background: #FFF8DC; /* Цвет фона */
+    	padding: 10px; /* Поля вокруг текста */
+}
+
